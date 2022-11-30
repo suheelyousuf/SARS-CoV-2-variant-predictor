@@ -1,0 +1,73 @@
+10/09/2022, 07:24:04
+(2160, 61982)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.2708
+10/09/2022, 07:43:51
+(2160, 61982)
+Confusion matrix for predictions on predictions on SARS-CoV-2 variantsusing SVM
+
+Predicted    0    1    2    3
+Actual                       
+0          109    0    0    0
+1            0  117    0    0
+2            0    0  102    0
+3            0    0    0  104
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+10/09/2022, 09:59:29
+(2160, 61982)
+Confusion matrix for predictions on SARS-CoV-2 variants using SVM
+
+Predicted    0    1    2    3
+Actual                       
+0          164    0    0    0
+1            0  166    0    0
+2            1    0  181    0
+3            0    0    0  136
+accuracy = 0.998 
+precision = 0.998 
+recall = 0.998 
+f1 = 0.998
+10/09/2022, 10:35:54
+(2160, 134948)
+Confusion matrix for predictions on predictions on SARS-CoV-2 variants using SVM
+
+Predicted    0    1    2   3
+Actual                      
+0          113    0    0   0
+1            0  109    0   0
+2            0    0  115   0
+3            0    0    0  95
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+10/09/2022, 13:15:20
+(2160, 134948)
+Confusion matrix for predictions on predictions on SARS-CoV-2 variants using SVM
+
+Predicted    0    1    2   3
+Actual                      
+0          108    0    0   0
+1            0  124    0   0
+2            0    0  102   0
+3            0    0    0  98
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
+random forest
+Confusion matrix for predictions SARS-CoV-2 variants using RandomForest
+
+Predicted    0    1    2   3
+Actual                      
+0          108    0    0   0
+1            0  124    0   0
+2            0    0  102   0
+3            0    0    0  98
+accuracy = 1.000 
+precision = 1.000 
+recall = 1.000 
+f1 = 1.000
