@@ -28,5 +28,3 @@ algorithms.
 | AdaBoost      | 95% | 97% |  94%  | 95%  |
 
 ## Table 1
-
-# This work is funded by Ministry of Environment Water and Agriculture, Saudi Arabia 
