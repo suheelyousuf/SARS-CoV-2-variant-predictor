@@ -1,5 +1,5 @@
 # SARS-CoV-2-variant-predictor
-## A machine learning model for the prediction of SARS-Cov-2 variants
+## A machine learning model for the prediction of SARS-CoV-2 variants
 
 Adaptive mutations in the severe acute respiratory syndrome coronavirus 2
 (SARS-CoV-2) genome can change the virus&#39;s pathogenicity. Even a single amino
