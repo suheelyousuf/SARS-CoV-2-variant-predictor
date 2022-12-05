@@ -1,4 +1,4 @@
-# SARS-CoV-2-variant-predictor
+#SARS-CoV-2-variant-predictor
 ## A machine learning model for the prediction of SARS-CoV-2 variants
 
 Adaptive mutations in the severe acute respiratory syndrome coronavirus 2
